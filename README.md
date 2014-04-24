@@ -1,4 +1,4 @@
-4GeeksNewletters
+4GeeksNewsletters
 ================
 
-4GeeksNewletters
+4GeeksNewsletters
