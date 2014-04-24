@@ -1,0 +1,72 @@
+#carta{
+    margin:0 auto;
+    background: url(../images/MiBanco_Xmas_Landing2_Closed.jpg) no-repeat;
+	float:left;
+	width:2000px;
+    height:768px;
+}
+#vacio1 { float:left; width: 488px; height:768px; }
+#subcarta1 { float:left; width:1026px; height:242px;}
+#vacio2 { float:left; width: 242px; height:242px;}
+#uno { float:left; width: 270px; height:242px; opacity:0;}
+#dos { float:left; width: 279px; height:242px; opacity:0;} 
+#vacio3 { float:left; width: 235px; height:242px; }
+
+#vacio4 { float:right; width: 486px; height:768px;}
+#subcarta2 { float:right; width:1026px; height:294px;margin:0; padding:0;}
+#seis { float:left; width: 271px; height:294px; opacity:0;}
+#siete { float:left; width: 478px; height:294px; opacity:0;}
+#tres { float:left; width: 277px; height:294px; opacity:0;}
+
+#vacio5 { float:left; width: 242px; height:232px; }
+#cinco { float:left; width: 270px; height:232px; opacity:0;}
+#cuatro { float:left; width: 279px; height:232px; opacity:0;}
+#vacio6 { float:left; width: 235px; height:232px; }
+
+#carta:hover #uno{opacity:1;
+/* Firefox */ -moz-transition: opacity 1s linear 1s;
+/* Chrome / Safari*/ -webkit-transition: opacity 1s linear 1s;
+/* Opera */ -o-transition: opacity 1s linear 1s;
+/* Default */ transition: opacity 1s linear 1s;
+}
+#carta:hover #dos{opacity:1;
+/* Firefox */ -moz-transition: opacity 1s linear 2s;
+/* Chrome / Safari*/ -webkit-transition: opacity 1s linear 2s;
+/* Opera */ -o-transition: opacity 1s linear 2s;
+/* Default */ transition: opacity 1s linear 2s;
+}
+#carta:hover #tres{opacity:1;
+/* Firefox */ -moz-transition: opacity 1s linear 3s;
+/* Chrome / Safari*/ -webkit-transition: opacity 1s linear 3s;
+/* Opera */ -o-transition: opacity 1s linear 3s;
+/* Default */ transition: opacity 1s linear 3s;
+}
+#carta:hover #cuatro{opacity:1;
+/* Firefox */ -moz-transition: opacity 1s linear 4s;
+/* Chrome / Safari*/ -webkit-transition: opacity 1s linear 4s;
+/* Opera */ -o-transition: opacity 1s linear 4s;
+/* Default */ transition: opacity 1s linear 4s;
+}
+#carta:hover #cinco{opacity:1;
+/* Firefox */ -moz-transition: opacity 1s linear 5s;
+/* Chrome / Safari*/ -webkit-transition: opacity 5s linear 5s;
+/* Opera */ -o-transition: opacity 1s linear 5s;
+/* Default */ transition: opacity 1s linear 5s;
+}
+#carta:hover #seis{opacity:1;
+/* Firefox */ -moz-transition: opacity 1s linear 6s;
+/* Chrome / Safari*/ -webkit-transition: opacity 6s linear 6s;
+/* Opera */ -o-transition: opacity 1s linear 6s;
+/* Default */ transition: opacity 1s linear 6s;
+}
+#carta:hover #siete{opacity:1;
+/* Firefox */ -moz-transition: opacity 6s linear 1s;
+/* Chrome / Safari*/ -webkit-transition: opacity 6s linear 1s;
+/* Opera */ -o-transition: opacity 6s linear 1s;
+/* Default */ transition: opacity 6s linear 1s;
+}
+/*
+#carta:hover {
+background: url(../images/MiBanco_Xmas_Landing2_Opened.png) no-repeat;
+*/
+

@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+/*Ing. Domingo Ilarreta*/
+/* akimxtreme.dj@gmail.com */
+#box { margin: 0 auto; width:1000px; height:384px; background-image:url(../images/newsletter/box_close.jpg); top:0; padding:0;}
+	#sub0 { opacity:0; width:1000px; height:384px;background-image:url(../images/newsletter/box_sin_lazo.png);}
+#box:hover #sub0 {	 
+		opacity:1;		
+		/* Firefox */ -moz-transition: opacity 1s linear 1s;
+		/* Chrome / Safari*/ -webkit-transition: opacity 1s linear 1s;
+		/* Opera */ -o-transition: opacity 1s linear 1s;
+		/* Default */ transition: opacity 1s linear 1s;
+}
+#sub1 { opacity:0; width:1000px; height:384px;background-image:url(../images/newsletter/uno.png);}
+#box:hover #sub1 {	 
+		opacity:1;		
+		/* Firefox */ -moz-transition: opacity 2s linear 2s;
+		/* Chrome / Safari*/ -webkit-transition: opacity 2s linear 2s;
+		/* Opera */ -o-transition: opacity 2s linear 2s;
+		/* Default */ transition: opacity 2s linear 2s;
+}
+#sub2 { opacity:0; width:1000px; height:384px;background-image:url(../images/newsletter/dos.png);}
+#box:hover #sub2 {	 
+		opacity:1;		
+		/* Firefox */ -moz-transition: opacity 3s linear 2s;
+		/* Chrome / Safari*/ -webkit-transition: opacity 3s linear 2s;
+		/* Opera */ -o-transition: opacity 3s linear 2s;
+		/* Default */ transition: opacity 3s linear 2s;
+}
+#sub3 { opacity:0; width:1000px; height:384px;background-image:url(../images/newsletter/tres.png);}
+#box:hover #sub3 {	 
+		opacity:1;		
+		/* Firefox */ -moz-transition: opacity 4s linear 2s;
+		/* Chrome / Safari*/ -webkit-transition: opacity 4s linear 2s;
+		/* Opera */ -o-transition: opacity 4s linear 2s;
+		/* Default */ transition: opacity 4s linear 2s;
+}
+#sub4 { opacity:0; width:1000px; height:384px;background-image:url(../images/newsletter/cuatro.png);}
+#box:hover #sub4 {	 
+		opacity:1;		
+		/* Firefox */ -moz-transition: opacity 5s linear 2s;
+		/* Chrome / Safari*/ -webkit-transition: opacity 5s linear 2s;
+		/* Opera */ -o-transition: opacity 5s linear 2s;
+		/* Default */ transition: opacity 5s linear 2s;
+}
+#sub5 { opacity:0; width:1000px; height:384px;background-image:url(../images/newsletter/cinco.png);}
+#box:hover #sub5 {	 
+		opacity:1;		
+		/* Firefox */ -moz-transition: opacity 6s linear 2s;
+		/* Chrome / Safari*/ -webkit-transition: opacity 6s linear 2s;
+		/* Opera */ -o-transition: opacity 6s linear 2s;
+		/* Default */ transition: opacity 6s linear 2s;
+}
+#sub6 { opacity:0; width:1000px; height:384px;background-image:url(../images/newsletter/seis.png);}
+#box:hover #sub6 {	 
+		opacity:1;		
+		/* Firefox */ -moz-transition: opacity 7s linear 2s;
+		/* Chrome / Safari*/ -webkit-transition: opacity 7s linear 2s;
+		/* Opera */ -o-transition: opacity 7s linear 2s;
+		/* Default */ transition: opacity 7s linear 2s;
+}
+#sub7 { opacity:0; width:1000px; height:384px;background-image:url(../images/newsletter/box_texto.png);}
+#box:hover #sub7 {	 
+		opacity:1;		
+		/* Firefox */ -moz-transition: opacity 5s linear 1s;
+		/* Chrome / Safari*/ -webkit-transition: opacity 5s linear 1s;
+		/* Opera */ -o-transition: opacity 5s linear 1s;
+		/* Default */ transition: opacity 5s linear 1s;
+}
